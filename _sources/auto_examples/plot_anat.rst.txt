@@ -43,7 +43,7 @@ We first download an anatomical scan through one of nilearn's fetcher:
     Downloading data from http://data.pymvpa.org/datasets/haxby2001/MD5SUMS ...
     Downloaded 408 of 408 bytes (100.0%,    0.0s remaining) ...done. (0 seconds, 0 min)
     Downloading data from http://data.pymvpa.org/datasets/haxby2001/subj2-2010.01.14.tar.gz ...
-    Downloaded 80551936 of 291168628 bytes (27.7%,    2.6s remaining)    Downloaded 172261376 of 291168628 bytes (59.2%,    1.4s remaining)    Downloaded 262389760 of 291168628 bytes (90.1%,    0.3s remaining)    Downloaded 291168628 of 291168628 bytes (100.0%,    0.0s remaining) ...done. (3 seconds, 0 min)
+    Downloaded 81895424 of 291168628 bytes (28.1%,    2.6s remaining)    Downloaded 171925504 of 291168628 bytes (59.0%,    1.4s remaining)    Downloaded 263020544 of 291168628 bytes (90.3%,    0.3s remaining)    Downloaded 291168628 of 291168628 bytes (100.0%,    0.0s remaining) ...done. (3 seconds, 0 min)
     Extracting data from /home/circleci/nilearn_data/haxby2001/def37a305edfda829916fa14c9ea08f8/subj2-2010.01.14.tar.gz..... done.
 
 
@@ -253,7 +253,7 @@ or multiple viewers in any html document template.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  7.899 seconds)
+   **Total running time of the script:** ( 0 minutes  8.440 seconds)
 
 
 .. _sphx_glr_download_auto_examples_plot_anat.py:
